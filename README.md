@@ -1,2 +1,2 @@
 # dispersion
-Using decision tree to identify internal wave mode
+Use SVM and random forest to identify internal wave mode
